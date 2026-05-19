@@ -73,5 +73,6 @@ Summary Synthesis
       │
       ▼
 Final Response
+```
 
 This repository features generalized prototypes and architectural workflows related to the manuscript 'A multi-agent large language model framework for mechanistic hypothesis generation in high-temperature alloy design', currently under review at Npj Computational Materials. Core proprietary datasets and specialized weights are withheld pending publication.
