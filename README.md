@@ -1,5 +1,6 @@
 # Agentic-Debate-RAG-System
 Agentic Debate RAG System is a multi-agent retrieval-augmented generation framework for scientific reasoning and hypothesis generation. The system combines RAG pipelines, LLMs, and collaborative debate agents to analyze literature, evaluate competing explanations, and generate evidence-grounded scientific conclusions.
+<img width="4642" height="1492" alt="image" src="https://github.com/user-attachments/assets/cce4c9d4-853a-4f07-897e-5c44f2dad066" />
 
 ## Overview
 
